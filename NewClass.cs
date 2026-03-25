@@ -4,9 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DorianLeci
+namespace LukaJerkovicVj1
 {
-    internal class Class1
+    
+    public class NewClass
     {
+       
     }
+    
 }
